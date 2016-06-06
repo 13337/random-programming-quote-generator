@@ -1,0 +1,40 @@
+#first {
+  text-align: center;
+  font-size: 3em;
+  font-family: Ubuntu mono;
+  background: #4D4D50;
+  color: white;
+}
+
+body {
+  background-color: #523B32;
+}
+
+#quotearea {
+  text-align: center;
+}
+
+.box {
+  background-image: url("https://pixabay.com/static/uploads/photo/2015/03/11/13/54/rain-668693_960_720.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 5px solid #4D4D50;
+  border-radius: 1%;
+  border-top-style: none;
+  padding: 10% 0%;
+  
+  margin-left: 35%;
+  margin-right: 35%;
+  font-size: 2em;
+  color: white;
+  text-shadow: 1px 2px 5px;
+}
+
+button {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.twitter-share-button {
+  margin-top: 1%;
+}
