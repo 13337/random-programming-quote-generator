@@ -15,7 +15,7 @@ body {
 }
 
 .box {
-  background-image: url("https://pixabay.com/static/uploads/photo/2015/03/11/13/54/rain-668693_960_720.jpg");
+  background-image: url("./rain-668693_960_720.jpg");
   background-repeat: no-repeat;
   background-position: center;
   border: 5px solid #4D4D50;
